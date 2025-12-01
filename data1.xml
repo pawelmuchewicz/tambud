@@ -7,7 +7,7 @@
     <extSchemaVersion>1.13</extSchemaVersion>
     <resources>
       <resource>
-        <url>https://pawelmuchewicz.github.io/tambud/data.csv</url>
+        <url>https://pawelmuchewicz.github.io/tambud/data1.csv</url>
         <name>Ceny-ofertowe-mieszkan-TAMBUD-Sp.-z-o.o.-2025-12-01.csv</name>
         <format>CSV</format>
       </resource>
