@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ns2:datasets xmlns:ns2="urn:otwarte-dane:harvester:1.13">
   <dataset status="published">
-    <extIdent>4f4a914ae5a9464ac8a114a6e85f16a6</extIdent>
+    <extIdent>fe127b5b52f42b21e76901fc53d4a338</extIdent>
     <extTitle>Ceny ofertowe mieszkań - TAMBUD Sp. z o.o. - 2025-12-23</extTitle>
     <extSchemaType>mieszkania</extSchemaType>
     <extSchemaVersion>1.13</extSchemaVersion>
