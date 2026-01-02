@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ns2:datasets xmlns:ns2="urn:otwarte-dane:harvester:1.13">
   <dataset status="published">
-    <extIdent>21b4d5037b8dc9a1cdb9d7b6fa968258</extIdent>
-    <extTitle>Ceny ofertowe mieszkań - TAMBUD Sp. z o.o. - 2026-01-01</extTitle>
+    <extIdent>5284900f3c1cb908b5b28b77e5aa9bcb</extIdent>
+    <extTitle>Ceny ofertowe mieszkań - TAMBUD Sp. z o.o. - 2026-01-02</extTitle>
     <extSchemaType>mieszkania</extSchemaType>
     <extSchemaVersion>1.13</extSchemaVersion>
     <resources>
       <resource>
         <url>https://pawelmuchewicz.github.io/tambud/data1.csv</url>
-        <name>Ceny-ofertowe-mieszkan-TAMBUD-Sp.-z-o.o.-2026-01-01.csv</name>
+        <name>Ceny-ofertowe-mieszkan-TAMBUD-Sp.-z-o.o.-2026-01-02.csv</name>
         <format>CSV</format>
       </resource>
     </resources>
