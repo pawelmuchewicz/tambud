@@ -3,8 +3,8 @@
   <dataset status="published">
     <extIdent>tambud_deweloper_rumia_bolszewo_2025</extIdent>
     <title>
-      <polish>Ceny ofertowe mieszkań dewelopera TAMBUD w 2025 r.</polish>
-      <english>Offer prices of apartments of developer TAMBUD in 2025.</english>
+      <polish>Ceny ofertowe mieszkań dewelopera TAMBUD w 2025 i 2026 r.</polish>
+      <english>Offer prices of apartments of developer TAMBUD in 2025 and 2026.</english>
     </title>
     <description>
       <polish>Zbiór danych zawiera informacje o cenach ofertowych mieszkań dewelopera TAMBUD Tadeusz Muchewicz Mateusz Muchewicz Spółka komandytowa udostępniane zgodnie z art. 19b. ust. 1 Ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. z 2024 r. poz. 695).</polish>
@@ -20,18 +20,18 @@
     </categories>
     <resources>
       <resource status="published">
-        <extIdent>tambud_ceny_mieszkan_20261104</extIdent>
+        <extIdent>tambud_ceny_mieszkan_20261105</extIdent>
         <url>https://pawelmuchewicz.github.io/tambud/data1.csv</url>
         <title>
-          <polish>Ceny ofertowe mieszkań dewelopera TAMBUD 2026-11-04</polish>
-          <english>Offer prices for developer's apartments TAMBUD 2026-11-04</english>
+          <polish>Ceny ofertowe mieszkań dewelopera TAMBUD 2026-11-05</polish>
+          <english>Offer prices for developer's apartments TAMBUD 2026-11-05</english>
         </title>
         <description>
-          <polish>Dane dotyczące cen ofertowych mieszkań dewelopera TAMBUD udostępnione 2026-11-04 zgodnie z art. 19b. ust. 1 Ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. z 2024 r. poz. 695).</polish>
-          <english>Data on offer prices of apartments of the developer TAMBUD made available 2026-11-04 in accordance with art. 19b. ust. 1 Ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. z 2024 r. poz. 695).</english>
+          <polish>Dane dotyczące cen ofertowych mieszkań dewelopera TAMBUD udostępnione 2026-11-05 zgodnie z art. 19b. ust. 1 Ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. z 2024 r. poz. 695).</polish>
+          <english>Data on offer prices of apartments of the developer TAMBUD made available 2026-11-05 in accordance with art. 19b. ust. 1 Ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. z 2024 r. poz. 695).</english>
         </description>
         <availability>local</availability>
-        <dataDate>2026-11-04</dataDate>
+        <dataDate>2026-11-05</dataDate>
         <specialSigns>
           <specialSign>X</specialSign>
         </specialSigns>
